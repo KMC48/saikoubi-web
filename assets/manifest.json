@@ -1,0 +1,335 @@
+{
+  "files": [
+    "bg/app_icon.png",
+    "bg/app_icon_192.png",
+    "bg/app_icon_512.png",
+    "bg/bg_stage.png",
+    "bg/bg_title.png",
+    "bg/og_image.png",
+    "chr/additional/chr_extra_collector.png",
+    "chr/additional/chr_extra_happi.png",
+    "chr/chr_boss_fakesign.png",
+    "chr/chr_cut_jirijiri.png",
+    "chr/chr_cut_koko.png",
+    "chr/chr_cut_renketsu_a.png",
+    "chr/chr_cut_renketsu_b.png",
+    "chr/chr_cut_renketsu_c.png",
+    "chr/chr_cut_suriyori.png",
+    "chr/chr_cut_tomodachi.png",
+    "chr/chr_cut_tomodachi_friend_a.png",
+    "chr/chr_cut_tomodachi_friend_b.png",
+    "chr/chr_decoy_ensei.png",
+    "chr/chr_decoy_hakooshi.png",
+    "chr/chr_decoy_toilet.png",
+    "chr/chr_fan_01.png",
+    "chr/chr_fan_02.png",
+    "chr/chr_fan_03.png",
+    "chr/chr_fan_04.png",
+    "chr/chr_resale_call.png",
+    "chr/chr_resale_leader.png",
+    "chr/chr_resale_member_a.png",
+    "chr/chr_resale_member_b.png",
+    "chr/chr_resale_return.png",
+    "chr/chr_resale_souba.png",
+    "chr/chr_staff.png",
+    "chr/chr_staff_raise.png",
+    "icon/icon_flea.png",
+    "icon/icon_link.png",
+    "icon/icon_star.png",
+    "icon/icon_stock.png",
+    "icon/icon_tell_call.png",
+    "icon/icon_tell_heart.png",
+    "icon/icon_tell_leave_ticket.png",
+    "icon/icon_tell_paperbag.png",
+    "icon/icon_tell_phone_price.png",
+    "icon/icon_tell_receipt.png",
+    "icon/icon_trust_sign.png",
+    "ui/ui_booth.png",
+    "ui/ui_sign_fake.png",
+    "ui/ui_sign_real.png"
+  ],
+  "frames": {
+    "bg/app_icon.png": {
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 1024
+    },
+    "bg/app_icon_192.png": {
+      "x": 0,
+      "y": 0,
+      "width": 192,
+      "height": 192
+    },
+    "bg/app_icon_512.png": {
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 512
+    },
+    "bg/bg_stage.png": {
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 1536
+    },
+    "bg/bg_title.png": {
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 1536
+    },
+    "bg/og_image.png": {
+      "x": 0,
+      "y": 0,
+      "width": 1200,
+      "height": 800
+    },
+    "chr/additional/chr_extra_collector.png": {
+      "x": 64,
+      "y": 3,
+      "width": 372,
+      "height": 509
+    },
+    "chr/additional/chr_extra_happi.png": {
+      "x": 9,
+      "y": 2,
+      "width": 487,
+      "height": 507
+    },
+    "chr/chr_boss_fakesign.png": {
+      "x": 118,
+      "y": 23,
+      "width": 294,
+      "height": 438
+    },
+    "chr/chr_cut_jirijiri.png": {
+      "x": 163,
+      "y": 65,
+      "width": 210,
+      "height": 395
+    },
+    "chr/chr_cut_koko.png": {
+      "x": 113,
+      "y": 26,
+      "width": 369,
+      "height": 435
+    },
+    "chr/chr_cut_renketsu_a.png": {
+      "x": 101,
+      "y": 65,
+      "width": 314,
+      "height": 395
+    },
+    "chr/chr_cut_renketsu_b.png": {
+      "x": 122,
+      "y": 65,
+      "width": 322,
+      "height": 395
+    },
+    "chr/chr_cut_renketsu_c.png": {
+      "x": 113,
+      "y": 65,
+      "width": 304,
+      "height": 396
+    },
+    "chr/chr_cut_suriyori.png": {
+      "x": 159,
+      "y": 65,
+      "width": 254,
+      "height": 395
+    },
+    "chr/chr_cut_tomodachi.png": {
+      "x": 135,
+      "y": 44,
+      "width": 297,
+      "height": 417
+    },
+    "chr/chr_cut_tomodachi_friend_a.png": {
+      "x": 191,
+      "y": 65,
+      "width": 259,
+      "height": 396
+    },
+    "chr/chr_cut_tomodachi_friend_b.png": {
+      "x": 202,
+      "y": 65,
+      "width": 223,
+      "height": 395
+    },
+    "chr/chr_decoy_ensei.png": {
+      "x": 79,
+      "y": 65,
+      "width": 330,
+      "height": 395
+    },
+    "chr/chr_decoy_hakooshi.png": {
+      "x": 135,
+      "y": 23,
+      "width": 265,
+      "height": 438
+    },
+    "chr/chr_decoy_toilet.png": {
+      "x": 142,
+      "y": 65,
+      "width": 202,
+      "height": 396
+    },
+    "chr/chr_fan_01.png": {
+      "x": 152,
+      "y": 60,
+      "width": 243,
+      "height": 401
+    },
+    "chr/chr_fan_02.png": {
+      "x": 176,
+      "y": 65,
+      "width": 214,
+      "height": 395
+    },
+    "chr/chr_fan_03.png": {
+      "x": 165,
+      "y": 65,
+      "width": 202,
+      "height": 396
+    },
+    "chr/chr_fan_04.png": {
+      "x": 157,
+      "y": 65,
+      "width": 242,
+      "height": 395
+    },
+    "chr/chr_resale_call.png": {
+      "x": 165,
+      "y": 65,
+      "width": 208,
+      "height": 395
+    },
+    "chr/chr_resale_leader.png": {
+      "x": 174,
+      "y": 65,
+      "width": 214,
+      "height": 395
+    },
+    "chr/chr_resale_member_a.png": {
+      "x": 177,
+      "y": 65,
+      "width": 190,
+      "height": 395
+    },
+    "chr/chr_resale_member_b.png": {
+      "x": 140,
+      "y": 65,
+      "width": 223,
+      "height": 395
+    },
+    "chr/chr_resale_return.png": {
+      "x": 126,
+      "y": 65,
+      "width": 232,
+      "height": 396
+    },
+    "chr/chr_resale_souba.png": {
+      "x": 173,
+      "y": 65,
+      "width": 217,
+      "height": 396
+    },
+    "chr/chr_staff.png": {
+      "x": 126,
+      "y": 23,
+      "width": 231,
+      "height": 438
+    },
+    "chr/chr_staff_raise.png": {
+      "x": 118,
+      "y": 23,
+      "width": 291,
+      "height": 438
+    },
+    "icon/icon_flea.png": {
+      "x": 25,
+      "y": 41,
+      "width": 142,
+      "height": 110
+    },
+    "icon/icon_link.png": {
+      "x": 25,
+      "y": 51,
+      "width": 142,
+      "height": 90
+    },
+    "icon/icon_star.png": {
+      "x": 25,
+      "y": 30,
+      "width": 142,
+      "height": 132
+    },
+    "icon/icon_stock.png": {
+      "x": 25,
+      "y": 28,
+      "width": 142,
+      "height": 136
+    },
+    "icon/icon_tell_call.png": {
+      "x": 36,
+      "y": 25,
+      "width": 120,
+      "height": 142
+    },
+    "icon/icon_tell_heart.png": {
+      "x": 25,
+      "y": 33,
+      "width": 142,
+      "height": 126
+    },
+    "icon/icon_tell_leave_ticket.png": {
+      "x": 50,
+      "y": 25,
+      "width": 92,
+      "height": 142
+    },
+    "icon/icon_tell_paperbag.png": {
+      "x": 38,
+      "y": 25,
+      "width": 116,
+      "height": 142
+    },
+    "icon/icon_tell_phone_price.png": {
+      "x": 50,
+      "y": 25,
+      "width": 92,
+      "height": 142
+    },
+    "icon/icon_tell_receipt.png": {
+      "x": 45,
+      "y": 25,
+      "width": 102,
+      "height": 142
+    },
+    "icon/icon_trust_sign.png": {
+      "x": 35,
+      "y": 25,
+      "width": 122,
+      "height": 142
+    },
+    "ui/ui_booth.png": {
+      "x": 45,
+      "y": 140,
+      "width": 422,
+      "height": 231
+    },
+    "ui/ui_sign_fake.png": {
+      "x": 90,
+      "y": 45,
+      "width": 331,
+      "height": 422
+    },
+    "ui/ui_sign_real.png": {
+      "x": 62,
+      "y": 45,
+      "width": 388,
+      "height": 422
+    }
+  }
+}
