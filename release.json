@@ -1,0 +1,277 @@
+{
+  "version": "0.2.0",
+  "released": "2026-11-04",
+  "sourceCommit": "ac90112e38086466d37d97153f7c3f5e50c02e60",
+  "files": [
+    {
+      "path": "assets/bg/app_icon.png",
+      "bytes": 320374,
+      "sha256": "9c764c4c06102d597701dd18dacd378d51f59729df6fb8dbf54b986e0aa1fb2d"
+    },
+    {
+      "path": "assets/bg/app_icon_192.png",
+      "bytes": 25996,
+      "sha256": "3c9c65272b5c48bf4eb5533822f717dec063b38fc7fb51abcf14ee07ed8ac57a"
+    },
+    {
+      "path": "assets/bg/app_icon_512.png",
+      "bytes": 172583,
+      "sha256": "601b8ba3624e23484126adbd5ce0b27a3fc4d7bb78453b7dd14d3b1d55cc1d5d"
+    },
+    {
+      "path": "assets/bg/bg_stage.png",
+      "bytes": 467284,
+      "sha256": "072b9e22ffdcbc234746ddfc76e9404a88fa6f296bc1008391b77ed80dfa2407"
+    },
+    {
+      "path": "assets/bg/bg_title.png",
+      "bytes": 577362,
+      "sha256": "772c959be13d9e7bcc600487e9d4c51601af4fbcf81fea01b8c79afde2af71e0"
+    },
+    {
+      "path": "assets/bg/og_image.png",
+      "bytes": 367001,
+      "sha256": "f2c6b92e66bf637f2324a222fe0441c5ba31848d7736faffaa26d23839bada69"
+    },
+    {
+      "path": "assets/chr/additional/chr_extra_collector.png",
+      "bytes": 101389,
+      "sha256": "c60013f36c999780e4e553a952c29411554a511f6ca44c12e6e40f3f97f7dd2e"
+    },
+    {
+      "path": "assets/chr/additional/chr_extra_happi.png",
+      "bytes": 107532,
+      "sha256": "fae838514ac2995a73cc39a0d2b2f5cca672dc2c08fe74231937fa7572f648c1"
+    },
+    {
+      "path": "assets/chr/chr_boss_fakesign.png",
+      "bytes": 53353,
+      "sha256": "e7ca7daa27d014cb70252014656f5c0d2af40e997b07bf6f182d8b54635acbe5"
+    },
+    {
+      "path": "assets/chr/chr_cut_jirijiri.png",
+      "bytes": 40092,
+      "sha256": "a949c89fd68a387161aba40bfdc7484df83263d01f89024c6ad95bdfac1b5b01"
+    },
+    {
+      "path": "assets/chr/chr_cut_koko.png",
+      "bytes": 65735,
+      "sha256": "da7c2f3b6b38aff9ad42312150d3c5e61d7b692729893ccbcdfa7f984d09b740"
+    },
+    {
+      "path": "assets/chr/chr_cut_renketsu_a.png",
+      "bytes": 47676,
+      "sha256": "5291d7edbfbb4a5085630cd190f93aeb0dab9089b3250179759bb6a37489334c"
+    },
+    {
+      "path": "assets/chr/chr_cut_renketsu_b.png",
+      "bytes": 46739,
+      "sha256": "0e18ca2ca0672b17d9786390d31d4626ac89b63330a788dc8d099b95c34f8f2a"
+    },
+    {
+      "path": "assets/chr/chr_cut_renketsu_c.png",
+      "bytes": 50864,
+      "sha256": "d8943e4ca65ee69fba46230d24979348c19d80a05dd2e7ad29bdc9368dda7450"
+    },
+    {
+      "path": "assets/chr/chr_cut_suriyori.png",
+      "bytes": 45903,
+      "sha256": "9ffbe5ca9e2d245d81cc0466132bf53ebaaed236cbb40fa065d6ea416d882ba0"
+    },
+    {
+      "path": "assets/chr/chr_cut_tomodachi.png",
+      "bytes": 56535,
+      "sha256": "3fcc6885deb356df047b98fa4ad687c01ff743c32f24c6e6849749ac50e30a29"
+    },
+    {
+      "path": "assets/chr/chr_cut_tomodachi_friend_a.png",
+      "bytes": 47654,
+      "sha256": "55b4d82c1d757ff6d0a41355dd3dc4bc966773bcf048337a1cb4b1bbffe3364b"
+    },
+    {
+      "path": "assets/chr/chr_cut_tomodachi_friend_b.png",
+      "bytes": 43239,
+      "sha256": "6731bd0858998a5d60577e46aa491c1c6e97b75fe91af429399f9fa1aa499914"
+    },
+    {
+      "path": "assets/chr/chr_decoy_ensei.png",
+      "bytes": 64510,
+      "sha256": "79ed08281cf16ae0e3e422727a5cd4564329b088da9ae1f78d4c428906fcd40b"
+    },
+    {
+      "path": "assets/chr/chr_decoy_hakooshi.png",
+      "bytes": 55923,
+      "sha256": "a11dd69bba2dea7f4b402dcd43bb075127ee45e34cbc56830ebcd804f392e4fd"
+    },
+    {
+      "path": "assets/chr/chr_decoy_toilet.png",
+      "bytes": 40066,
+      "sha256": "72a045037df320faf90e1de09a7826183d13138b1bb481d41e94154ec1e1a2a4"
+    },
+    {
+      "path": "assets/chr/chr_fan_01.png",
+      "bytes": 52657,
+      "sha256": "a7e2b71da2a559b93655f6796ee09550af55c4c7832ab65ee74b1df7ca45f63d"
+    },
+    {
+      "path": "assets/chr/chr_fan_02.png",
+      "bytes": 43389,
+      "sha256": "b7700074eb7643d1f1c518c624b3214c07e25a294e9e62645692728fef1bd688"
+    },
+    {
+      "path": "assets/chr/chr_fan_03.png",
+      "bytes": 42767,
+      "sha256": "0ffbd361606335537aff25082ce63574970a94f83489581218e7e89711c5b3ea"
+    },
+    {
+      "path": "assets/chr/chr_fan_04.png",
+      "bytes": 53357,
+      "sha256": "419f0dcf10c6f7bc194a92b0a20abc19bebe6b2057931099f1a4efb7bf998d8a"
+    },
+    {
+      "path": "assets/chr/chr_resale_call.png",
+      "bytes": 40937,
+      "sha256": "a325c4a433ecd81eee6540e08672a49d584c88c674128041a5359f89e40b8f8b"
+    },
+    {
+      "path": "assets/chr/chr_resale_leader.png",
+      "bytes": 39083,
+      "sha256": "61d88dbc2e6ee5c48903c7399fc4b7dcba701ef48d38fad2888aecd356d16f90"
+    },
+    {
+      "path": "assets/chr/chr_resale_member_a.png",
+      "bytes": 39253,
+      "sha256": "1f559de2fb6265274b6acbe9031b8b688d42731b0d826389c71614e59027f45e"
+    },
+    {
+      "path": "assets/chr/chr_resale_member_b.png",
+      "bytes": 43647,
+      "sha256": "5e6a9ce08e278618fa2f319e0e9e0a7d60899c59db08ed6902c08f253cd5e62d"
+    },
+    {
+      "path": "assets/chr/chr_resale_return.png",
+      "bytes": 45849,
+      "sha256": "b6e3395dddc575f1d666c053858067d23f2bb0c7134a02d9b413bb01f89c471c"
+    },
+    {
+      "path": "assets/chr/chr_resale_souba.png",
+      "bytes": 43091,
+      "sha256": "84033d48cab7dd58c3d89646664ae47163423e04bc8e9491e9149342b0cf0b52"
+    },
+    {
+      "path": "assets/chr/chr_staff.png",
+      "bytes": 42238,
+      "sha256": "b2ea2771cd8a006632ca7aba6e12f515d388f9f69415385f50de62650fcdfcb9"
+    },
+    {
+      "path": "assets/chr/chr_staff_raise.png",
+      "bytes": 40186,
+      "sha256": "c47137237cc31adb8fe246d70bb6d958bb76d4a5e00568c8f44ef18d7c9c5881"
+    },
+    {
+      "path": "assets/icon/icon_flea.png",
+      "bytes": 9312,
+      "sha256": "224261682a0bd7410b16387755d5fc4bf3d9b24a62c48b4901c83edd6bf9dbef"
+    },
+    {
+      "path": "assets/icon/icon_link.png",
+      "bytes": 7813,
+      "sha256": "8d47a81abf9ff1f4ac356529567d1d1c27b94988de4c7a5ec5d8fcfd3a2a999e"
+    },
+    {
+      "path": "assets/icon/icon_star.png",
+      "bytes": 6255,
+      "sha256": "ec1130c3d93fd9969f774ee741f2ad06abcd18d98bcbb1b60dabe9fe619573b4"
+    },
+    {
+      "path": "assets/icon/icon_stock.png",
+      "bytes": 11478,
+      "sha256": "40dfe7bb8332e0cba3c7a48476cae333b4807bdc02c36701ba576c0239814c02"
+    },
+    {
+      "path": "assets/icon/icon_tell_call.png",
+      "bytes": 7906,
+      "sha256": "4aa9fc50fc9753be79c0cce00bcd79c9c9b24699a8baaecb6251e435884f5582"
+    },
+    {
+      "path": "assets/icon/icon_tell_heart.png",
+      "bytes": 5803,
+      "sha256": "396861169c5ff3f05a45283ab2b90f14ff4e944a55abf212ee9c864ba40d7917"
+    },
+    {
+      "path": "assets/icon/icon_tell_leave_ticket.png",
+      "bytes": 5535,
+      "sha256": "18b6e6ddb7bc42886d216446cf9c1d6f2411673482e631bbc73ae0887535f4cd"
+    },
+    {
+      "path": "assets/icon/icon_tell_paperbag.png",
+      "bytes": 8775,
+      "sha256": "fcd42a196ad86efa5d490bf02f2248009ede05493e4414cd96324379daaeaab4"
+    },
+    {
+      "path": "assets/icon/icon_tell_phone_price.png",
+      "bytes": 8480,
+      "sha256": "d9cb021524a4ffcf7471397f1884cfb4a121d651be6b3164d38486461ee0b02f"
+    },
+    {
+      "path": "assets/icon/icon_tell_receipt.png",
+      "bytes": 6222,
+      "sha256": "53e33533ecc5b91bc90f41ca866aa7250739a16462b95e3c2dfafd448b4f7288"
+    },
+    {
+      "path": "assets/icon/icon_trust_sign.png",
+      "bytes": 5086,
+      "sha256": "0a0118b7fb2f445752bb174a52dc5046cfc34478112d65dea5d399551c2d06de"
+    },
+    {
+      "path": "assets/index-B5rXuMz-.css",
+      "bytes": 16972,
+      "sha256": "bbcac21ca57feab75ead76ad4f79e79cb1c26143ffc68d1fa7a38286a041261f"
+    },
+    {
+      "path": "assets/index-BEb4QPHo.js",
+      "bytes": 56693,
+      "sha256": "578eb4acc817a597939b1452ba61af9f2b8cb37b305646904a136487cc16ee95"
+    },
+    {
+      "path": "assets/manifest.json",
+      "bytes": 6679,
+      "sha256": "cc6d60452552e3b5c9373ff16307feaba49b06708c4103932b3850d823ac5b10"
+    },
+    {
+      "path": "assets/ui/ui_booth.png",
+      "bytes": 28775,
+      "sha256": "b453ea7af6f73665b2d83567c393be9e393447bc307d7ad29dca8691ec0f6198"
+    },
+    {
+      "path": "assets/ui/ui_sign_fake.png",
+      "bytes": 45811,
+      "sha256": "35f7360aff44126d5d1bbd1644f6a2cf09fc13795b431f2140876fc9efd51da7"
+    },
+    {
+      "path": "assets/ui/ui_sign_real.png",
+      "bytes": 26292,
+      "sha256": "5a0b6e61fc7f179a779faad093db9152b4e5aad9a3c30edd9806b2f15873b542"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1585,
+      "sha256": "d37d4286c2102cac98ca65f901972a35b31213b27951ec4369374f8887164e06"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 520,
+      "sha256": "d6ad17d88ad3fc648a13963ac0b5b4d859711d67ec0388e7773b85fa6c59eed5"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 5151,
+      "sha256": "2e381054f9e222bf25eac1397d436659e9533542677cf15a49a3420df90cdb0f"
+    },
+    {
+      "path": "workbox-9c191d2f.js",
+      "bytes": 15112,
+      "sha256": "04b086f1b2f4215ee4b659a7bc9c76162894abdb43fa876247bc7c0bd6fd1c37"
+    }
+  ]
+}
