@@ -4,11 +4,14 @@
     "bg/app_icon_192.png",
     "bg/app_icon_512.png",
     "bg/bg_stage.png",
-    "bg/bg_title.png",
-    "bg/og_image.png",
     "chr/additional/chr_extra_collector.png",
-    "chr/additional/chr_extra_happi.png",
     "chr/chr_boss_fakesign.png",
+    "chr/chr_crowd_casual.png",
+    "chr/chr_crowd_cosplayer.png",
+    "chr/chr_crowd_couple.png",
+    "chr/chr_crowd_gothic.png",
+    "chr/chr_crowd_science.png",
+    "chr/chr_crowd_veteran.png",
     "chr/chr_cut_jirijiri.png",
     "chr/chr_cut_koko.png",
     "chr/chr_cut_renketsu_a.png",
@@ -19,7 +22,6 @@
     "chr/chr_cut_tomodachi_friend_a.png",
     "chr/chr_cut_tomodachi_friend_b.png",
     "chr/chr_decoy_ensei.png",
-    "chr/chr_decoy_hakooshi.png",
     "chr/chr_decoy_toilet.png",
     "chr/chr_fan_01.png",
     "chr/chr_fan_02.png",
@@ -73,35 +75,53 @@
       "width": 1024,
       "height": 1536
     },
-    "bg/bg_title.png": {
-      "x": 0,
-      "y": 0,
-      "width": 1024,
-      "height": 1536
-    },
-    "bg/og_image.png": {
-      "x": 0,
-      "y": 0,
-      "width": 1200,
-      "height": 800
-    },
     "chr/additional/chr_extra_collector.png": {
       "x": 64,
       "y": 3,
       "width": 372,
       "height": 509
     },
-    "chr/additional/chr_extra_happi.png": {
-      "x": 9,
-      "y": 2,
-      "width": 487,
-      "height": 507
-    },
     "chr/chr_boss_fakesign.png": {
       "x": 118,
       "y": 23,
       "width": 294,
       "height": 438
+    },
+    "chr/chr_crowd_casual.png": {
+      "x": 172,
+      "y": 63,
+      "width": 177,
+      "height": 400
+    },
+    "chr/chr_crowd_cosplayer.png": {
+      "x": 125,
+      "y": 54,
+      "width": 245,
+      "height": 413
+    },
+    "chr/chr_crowd_couple.png": {
+      "x": 93,
+      "y": 51,
+      "width": 307,
+      "height": 426
+    },
+    "chr/chr_crowd_gothic.png": {
+      "x": 140,
+      "y": 61,
+      "width": 240,
+      "height": 413
+    },
+    "chr/chr_crowd_science.png": {
+      "x": 156,
+      "y": 57,
+      "width": 229,
+      "height": 409
+    },
+    "chr/chr_crowd_veteran.png": {
+      "x": 67,
+      "y": 61,
+      "width": 349,
+      "height": 411
     },
     "chr/chr_cut_jirijiri.png": {
       "x": 163,
@@ -162,12 +182,6 @@
       "y": 65,
       "width": 330,
       "height": 395
-    },
-    "chr/chr_decoy_hakooshi.png": {
-      "x": 135,
-      "y": 23,
-      "width": 265,
-      "height": 438
     },
     "chr/chr_decoy_toilet.png": {
       "x": 142,
@@ -236,16 +250,16 @@
       "height": 396
     },
     "chr/chr_staff.png": {
-      "x": 126,
-      "y": 23,
-      "width": 231,
-      "height": 438
+      "x": 114,
+      "y": 15,
+      "width": 306,
+      "height": 490
     },
     "chr/chr_staff_raise.png": {
-      "x": 118,
-      "y": 23,
-      "width": 291,
-      "height": 438
+      "x": 89,
+      "y": 8,
+      "width": 346,
+      "height": 492
     },
     "icon/icon_flea.png": {
       "x": 25,

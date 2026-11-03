@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "released": "2026-11-04",
-  "sourceCommit": "ac90112e38086466d37d97153f7c3f5e50c02e60",
+  "sourceCommit": "66d9eac15d357a1dce19a01093efeea99bbc40b1",
   "files": [
     {
       "path": "assets/bg/app_icon.png",
@@ -24,29 +24,44 @@
       "sha256": "072b9e22ffdcbc234746ddfc76e9404a88fa6f296bc1008391b77ed80dfa2407"
     },
     {
-      "path": "assets/bg/bg_title.png",
-      "bytes": 577362,
-      "sha256": "772c959be13d9e7bcc600487e9d4c51601af4fbcf81fea01b8c79afde2af71e0"
-    },
-    {
-      "path": "assets/bg/og_image.png",
-      "bytes": 367001,
-      "sha256": "f2c6b92e66bf637f2324a222fe0441c5ba31848d7736faffaa26d23839bada69"
-    },
-    {
       "path": "assets/chr/additional/chr_extra_collector.png",
       "bytes": 101389,
       "sha256": "c60013f36c999780e4e553a952c29411554a511f6ca44c12e6e40f3f97f7dd2e"
     },
     {
-      "path": "assets/chr/additional/chr_extra_happi.png",
-      "bytes": 107532,
-      "sha256": "fae838514ac2995a73cc39a0d2b2f5cca672dc2c08fe74231937fa7572f648c1"
-    },
-    {
       "path": "assets/chr/chr_boss_fakesign.png",
       "bytes": 53353,
       "sha256": "e7ca7daa27d014cb70252014656f5c0d2af40e997b07bf6f182d8b54635acbe5"
+    },
+    {
+      "path": "assets/chr/chr_crowd_casual.png",
+      "bytes": 38374,
+      "sha256": "1c74978e79c424f500e60ecb3f53d4ce8900de41553e11bb87fa742b034dd739"
+    },
+    {
+      "path": "assets/chr/chr_crowd_cosplayer.png",
+      "bytes": 49658,
+      "sha256": "163b6b3d63a8c33f4efef7b4cac0b50c3ffb94048fd31dcb183fb7cec691e9fe"
+    },
+    {
+      "path": "assets/chr/chr_crowd_couple.png",
+      "bytes": 66524,
+      "sha256": "81aca3beefe32f7fa1a00f0abdafc982302603cc8a4309a7a166ba2ffb72d0f5"
+    },
+    {
+      "path": "assets/chr/chr_crowd_gothic.png",
+      "bytes": 51893,
+      "sha256": "ab5006c8f2a5d66871cb5ee3fc129bbaff057f78145278a2de5e89b7929cdc95"
+    },
+    {
+      "path": "assets/chr/chr_crowd_science.png",
+      "bytes": 39934,
+      "sha256": "0cd5e279bc17d9f46012b5062007635fd8a468944e2efd69bb577ffe94daccb7"
+    },
+    {
+      "path": "assets/chr/chr_crowd_veteran.png",
+      "bytes": 54974,
+      "sha256": "4ea43dd278561cf124182ec9f0c1e701864c1c48edea06f4fba9babc3cdad08e"
     },
     {
       "path": "assets/chr/chr_cut_jirijiri.png",
@@ -97,11 +112,6 @@
       "path": "assets/chr/chr_decoy_ensei.png",
       "bytes": 64510,
       "sha256": "79ed08281cf16ae0e3e422727a5cd4564329b088da9ae1f78d4c428906fcd40b"
-    },
-    {
-      "path": "assets/chr/chr_decoy_hakooshi.png",
-      "bytes": 55923,
-      "sha256": "a11dd69bba2dea7f4b402dcd43bb075127ee45e34cbc56830ebcd804f392e4fd"
     },
     {
       "path": "assets/chr/chr_decoy_toilet.png",
@@ -160,13 +170,13 @@
     },
     {
       "path": "assets/chr/chr_staff.png",
-      "bytes": 42238,
-      "sha256": "b2ea2771cd8a006632ca7aba6e12f515d388f9f69415385f50de62650fcdfcb9"
+      "bytes": 57922,
+      "sha256": "313ca3066547cf2b1b1e0676a60188be61dd8ff22d12d82b4daa20e0f9666eed"
     },
     {
       "path": "assets/chr/chr_staff_raise.png",
-      "bytes": 40186,
-      "sha256": "c47137237cc31adb8fe246d70bb6d958bb76d4a5e00568c8f44ef18d7c9c5881"
+      "bytes": 49148,
+      "sha256": "9b527901cb8ef42322ec536a04d23759066a24593a34bb595186e83411b26171"
     },
     {
       "path": "assets/icon/icon_flea.png",
@@ -224,19 +234,19 @@
       "sha256": "0a0118b7fb2f445752bb174a52dc5046cfc34478112d65dea5d399551c2d06de"
     },
     {
-      "path": "assets/index-B5rXuMz-.css",
-      "bytes": 16972,
-      "sha256": "bbcac21ca57feab75ead76ad4f79e79cb1c26143ffc68d1fa7a38286a041261f"
+      "path": "assets/index-CPqFoawH.js",
+      "bytes": 41106,
+      "sha256": "219ca78044f19ce118feeb09a32b475bb5a04e9be43511034b3d5901676b0ef1"
     },
     {
-      "path": "assets/index-BEb4QPHo.js",
-      "bytes": 56693,
-      "sha256": "578eb4acc817a597939b1452ba61af9f2b8cb37b305646904a136487cc16ee95"
+      "path": "assets/index-IwCmzL5-.css",
+      "bytes": 12642,
+      "sha256": "5fd6ce338708374b70411636928d83202590419f2f484512676c81b501d9aae7"
     },
     {
       "path": "assets/manifest.json",
-      "bytes": 6679,
-      "sha256": "cc6d60452552e3b5c9373ff16307feaba49b06708c4103932b3850d823ac5b10"
+      "bytes": 6991,
+      "sha256": "235aa1780ceca2b1a1101d27185b8ce758d80598a6b4c35dce8e964a6eb446f7"
     },
     {
       "path": "assets/ui/ui_booth.png",
@@ -255,18 +265,18 @@
     },
     {
       "path": "index.html",
-      "bytes": 1585,
-      "sha256": "d37d4286c2102cac98ca65f901972a35b31213b27951ec4369374f8887164e06"
+      "bytes": 1612,
+      "sha256": "ae13aed6203ef70068815e41566e65a7f462fb6130841f3051ae3353c3cdd301"
     },
     {
       "path": "manifest.webmanifest",
-      "bytes": 520,
-      "sha256": "d6ad17d88ad3fc648a13963ac0b5b4d859711d67ec0388e7773b85fa6c59eed5"
+      "bytes": 550,
+      "sha256": "70029e0485ae7a2a342176d747b2da56d92bbc14cdaaa0a9290c031f69461ef3"
     },
     {
       "path": "sw.js",
-      "bytes": 5151,
-      "sha256": "2e381054f9e222bf25eac1397d436659e9533542677cf15a49a3420df90cdb0f"
+      "bytes": 5254,
+      "sha256": "872accadbe622c52da75ce54ebc51b10dbb8b72a84b4721327e51e6d4cbef2f1"
     },
     {
       "path": "workbox-9c191d2f.js",
