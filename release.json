@@ -265,8 +265,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 1633,
-      "sha256": "deea399842bb3614a82ad7f102543b405f26a0cc3ab19bb28f163d9066281107"
+      "bytes": 1612,
+      "sha256": "ecbd186a9a18dab0dc96e450744a79bcd331f7d71b3d64e835456f79831007f9"
     },
     {
       "path": "manifest.webmanifest",
