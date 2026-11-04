@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "released": "2026-11-04",
-  "sourceCommit": "66d9eac15d357a1dce19a01093efeea99bbc40b1",
+  "sourceCommit": "a7a3a8a434d9af46bacbf7933802613b22ae34f2",
   "files": [
     {
       "path": "assets/bg/app_icon.png",
@@ -234,14 +234,14 @@
       "sha256": "0a0118b7fb2f445752bb174a52dc5046cfc34478112d65dea5d399551c2d06de"
     },
     {
-      "path": "assets/index-CPqFoawH.js",
-      "bytes": 41106,
-      "sha256": "219ca78044f19ce118feeb09a32b475bb5a04e9be43511034b3d5901676b0ef1"
+      "path": "assets/index-9WN9U5Nz.js",
+      "bytes": 44673,
+      "sha256": "ff3f39ef9ff5aee889278d7b7c5c093e1f958ed65ac106fffd3c005f3c0665c7"
     },
     {
-      "path": "assets/index-IwCmzL5-.css",
-      "bytes": 12642,
-      "sha256": "5fd6ce338708374b70411636928d83202590419f2f484512676c81b501d9aae7"
+      "path": "assets/index-SirHWNX-.css",
+      "bytes": 12669,
+      "sha256": "0f134cd91d8c3b6c0ce17498c0d5e1164ca12288b4a27baae1df4c6928eab4e9"
     },
     {
       "path": "assets/manifest.json",
@@ -265,8 +265,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 1612,
-      "sha256": "ae13aed6203ef70068815e41566e65a7f462fb6130841f3051ae3353c3cdd301"
+      "bytes": 1633,
+      "sha256": "deea399842bb3614a82ad7f102543b405f26a0cc3ab19bb28f163d9066281107"
     },
     {
       "path": "manifest.webmanifest",
@@ -276,7 +276,7 @@
     {
       "path": "sw.js",
       "bytes": 5254,
-      "sha256": "872accadbe622c52da75ce54ebc51b10dbb8b72a84b4721327e51e6d4cbef2f1"
+      "sha256": "3f96e3e8cc98c120cf6151aa641cb7a55ff86cebc7969d3b2963e6b3976c5245"
     },
     {
       "path": "workbox-9c191d2f.js",
