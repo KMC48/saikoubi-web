@@ -46,6 +46,36 @@
     "icon/icon_tell_phone_price.png",
     "icon/icon_tell_receipt.png",
     "icon/icon_trust_sign.png",
+    "portraits/portrait_casual_confident.png",
+    "portraits/portrait_casual_neutral.png",
+    "portraits/portrait_casual_relieved.png",
+    "portraits/portrait_casual_shocked.png",
+    "portraits/portrait_casual_thinking.png",
+    "portraits/portrait_cosplayer_confident.png",
+    "portraits/portrait_cosplayer_neutral.png",
+    "portraits/portrait_cosplayer_relieved.png",
+    "portraits/portrait_cosplayer_shocked.png",
+    "portraits/portrait_cosplayer_thinking.png",
+    "portraits/portrait_couple_confident.png",
+    "portraits/portrait_couple_neutral.png",
+    "portraits/portrait_couple_relieved.png",
+    "portraits/portrait_couple_shocked.png",
+    "portraits/portrait_couple_thinking.png",
+    "portraits/portrait_gothic_confident.png",
+    "portraits/portrait_gothic_neutral.png",
+    "portraits/portrait_gothic_relieved.png",
+    "portraits/portrait_gothic_shocked.png",
+    "portraits/portrait_gothic_thinking.png",
+    "portraits/portrait_science_confident.png",
+    "portraits/portrait_science_neutral.png",
+    "portraits/portrait_science_relieved.png",
+    "portraits/portrait_science_shocked.png",
+    "portraits/portrait_science_thinking.png",
+    "portraits/portrait_veteran_confident.png",
+    "portraits/portrait_veteran_neutral.png",
+    "portraits/portrait_veteran_relieved.png",
+    "portraits/portrait_veteran_shocked.png",
+    "portraits/portrait_veteran_thinking.png",
     "ui/ui_booth.png",
     "ui/ui_sign_fake.png",
     "ui/ui_sign_real.png"
@@ -326,6 +356,186 @@
       "y": 25,
       "width": 122,
       "height": 142
+    },
+    "portraits/portrait_casual_confident.png": {
+      "x": 30,
+      "y": 12,
+      "width": 204,
+      "height": 229
+    },
+    "portraits/portrait_casual_neutral.png": {
+      "x": 30,
+      "y": 12,
+      "width": 204,
+      "height": 229
+    },
+    "portraits/portrait_casual_relieved.png": {
+      "x": 30,
+      "y": 12,
+      "width": 204,
+      "height": 229
+    },
+    "portraits/portrait_casual_shocked.png": {
+      "x": 30,
+      "y": 12,
+      "width": 210,
+      "height": 229
+    },
+    "portraits/portrait_casual_thinking.png": {
+      "x": 30,
+      "y": 12,
+      "width": 204,
+      "height": 229
+    },
+    "portraits/portrait_cosplayer_confident.png": {
+      "x": 37,
+      "y": 6,
+      "width": 190,
+      "height": 239
+    },
+    "portraits/portrait_cosplayer_neutral.png": {
+      "x": 37,
+      "y": 6,
+      "width": 190,
+      "height": 239
+    },
+    "portraits/portrait_cosplayer_relieved.png": {
+      "x": 37,
+      "y": 6,
+      "width": 190,
+      "height": 240
+    },
+    "portraits/portrait_cosplayer_shocked.png": {
+      "x": 37,
+      "y": 6,
+      "width": 190,
+      "height": 239
+    },
+    "portraits/portrait_cosplayer_thinking.png": {
+      "x": 37,
+      "y": 6,
+      "width": 190,
+      "height": 239
+    },
+    "portraits/portrait_couple_confident.png": {
+      "x": 4,
+      "y": 27,
+      "width": 251,
+      "height": 198
+    },
+    "portraits/portrait_couple_neutral.png": {
+      "x": 4,
+      "y": 27,
+      "width": 251,
+      "height": 198
+    },
+    "portraits/portrait_couple_relieved.png": {
+      "x": 4,
+      "y": 27,
+      "width": 251,
+      "height": 198
+    },
+    "portraits/portrait_couple_shocked.png": {
+      "x": 4,
+      "y": 27,
+      "width": 250,
+      "height": 198
+    },
+    "portraits/portrait_couple_thinking.png": {
+      "x": 4,
+      "y": 26,
+      "width": 250,
+      "height": 199
+    },
+    "portraits/portrait_gothic_confident.png": {
+      "x": 37,
+      "y": 9,
+      "width": 200,
+      "height": 232
+    },
+    "portraits/portrait_gothic_neutral.png": {
+      "x": 37,
+      "y": 9,
+      "width": 200,
+      "height": 232
+    },
+    "portraits/portrait_gothic_relieved.png": {
+      "x": 37,
+      "y": 9,
+      "width": 200,
+      "height": 232
+    },
+    "portraits/portrait_gothic_shocked.png": {
+      "x": 37,
+      "y": 9,
+      "width": 200,
+      "height": 232
+    },
+    "portraits/portrait_gothic_thinking.png": {
+      "x": 37,
+      "y": 9,
+      "width": 200,
+      "height": 232
+    },
+    "portraits/portrait_science_confident.png": {
+      "x": 36,
+      "y": 10,
+      "width": 178,
+      "height": 224
+    },
+    "portraits/portrait_science_neutral.png": {
+      "x": 36,
+      "y": 10,
+      "width": 178,
+      "height": 224
+    },
+    "portraits/portrait_science_relieved.png": {
+      "x": 36,
+      "y": 10,
+      "width": 179,
+      "height": 224
+    },
+    "portraits/portrait_science_shocked.png": {
+      "x": 36,
+      "y": 10,
+      "width": 178,
+      "height": 224
+    },
+    "portraits/portrait_science_thinking.png": {
+      "x": 36,
+      "y": 10,
+      "width": 178,
+      "height": 224
+    },
+    "portraits/portrait_veteran_confident.png": {
+      "x": 25,
+      "y": 10,
+      "width": 210,
+      "height": 236
+    },
+    "portraits/portrait_veteran_neutral.png": {
+      "x": 25,
+      "y": 10,
+      "width": 210,
+      "height": 236
+    },
+    "portraits/portrait_veteran_relieved.png": {
+      "x": 25,
+      "y": 10,
+      "width": 210,
+      "height": 236
+    },
+    "portraits/portrait_veteran_shocked.png": {
+      "x": 25,
+      "y": 10,
+      "width": 210,
+      "height": 236
+    },
+    "portraits/portrait_veteran_thinking.png": {
+      "x": 25,
+      "y": 10,
+      "width": 210,
+      "height": 236
     },
     "ui/ui_booth.png": {
       "x": 45,
