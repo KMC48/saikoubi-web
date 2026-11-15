@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "released": "2026-11-04",
-  "sourceCommit": "a7a3a8a434d9af46bacbf7933802613b22ae34f2",
+  "version": "0.5.0",
+  "released": "2026-11-16",
+  "sourceCommit": "cec1813485c34633e0ee206b79223b1f1e592a52",
   "files": [
     {
       "path": "assets/bg/app_icon.png",
@@ -35,33 +35,33 @@
     },
     {
       "path": "assets/chr/chr_crowd_casual.png",
-      "bytes": 38374,
-      "sha256": "1c74978e79c424f500e60ecb3f53d4ce8900de41553e11bb87fa742b034dd739"
+      "bytes": 38347,
+      "sha256": "83689a2cb9e00d5df4459cf6f625cde4f0219dd2211cea84fa29a3dde50b9bb0"
     },
     {
       "path": "assets/chr/chr_crowd_cosplayer.png",
-      "bytes": 49658,
-      "sha256": "163b6b3d63a8c33f4efef7b4cac0b50c3ffb94048fd31dcb183fb7cec691e9fe"
+      "bytes": 49613,
+      "sha256": "bcd0e6fbfc8bc589ac121c8748c7363373c182f82e36c73f2b1d9676d982be2d"
     },
     {
       "path": "assets/chr/chr_crowd_couple.png",
-      "bytes": 66524,
-      "sha256": "81aca3beefe32f7fa1a00f0abdafc982302603cc8a4309a7a166ba2ffb72d0f5"
+      "bytes": 66458,
+      "sha256": "eafed22555efbc5b766f39a99279f3bc26421fda1283bd5f072292994f86b1a5"
     },
     {
       "path": "assets/chr/chr_crowd_gothic.png",
-      "bytes": 51893,
-      "sha256": "ab5006c8f2a5d66871cb5ee3fc129bbaff057f78145278a2de5e89b7929cdc95"
+      "bytes": 51887,
+      "sha256": "c1e1d78c844c02c72867552dc2df3a4a0132c944de132f66aff26a55aa0b1cc4"
     },
     {
       "path": "assets/chr/chr_crowd_science.png",
-      "bytes": 39934,
-      "sha256": "0cd5e279bc17d9f46012b5062007635fd8a468944e2efd69bb577ffe94daccb7"
+      "bytes": 39906,
+      "sha256": "063390a33ea672804f66d061312135551595829ed85b4404c4e747249ca5a395"
     },
     {
       "path": "assets/chr/chr_crowd_veteran.png",
-      "bytes": 54974,
-      "sha256": "4ea43dd278561cf124182ec9f0c1e701864c1c48edea06f4fba9babc3cdad08e"
+      "bytes": 54881,
+      "sha256": "d078c50941e104c8d84d465900d6461dd8ca51a0121deb9eba05dfc03f18258f"
     },
     {
       "path": "assets/chr/chr_cut_jirijiri.png",
@@ -234,19 +234,169 @@
       "sha256": "0a0118b7fb2f445752bb174a52dc5046cfc34478112d65dea5d399551c2d06de"
     },
     {
-      "path": "assets/index-9WN9U5Nz.js",
-      "bytes": 44673,
-      "sha256": "ff3f39ef9ff5aee889278d7b7c5c093e1f958ed65ac106fffd3c005f3c0665c7"
+      "path": "assets/index-CFaEUlpk.css",
+      "bytes": 15205,
+      "sha256": "52ef60b2c2c96f931055a05187305ea39d46c88116566c1a97dc3acb524c010c"
     },
     {
-      "path": "assets/index-SirHWNX-.css",
-      "bytes": 12669,
-      "sha256": "0f134cd91d8c3b6c0ce17498c0d5e1164ca12288b4a27baae1df4c6928eab4e9"
+      "path": "assets/index-DB7CxR9N.js",
+      "bytes": 62301,
+      "sha256": "a5e91fe4e108dd426af91ca3108852ab5eb9da595e4f8ba1f376a27baf7705fa"
     },
     {
       "path": "assets/manifest.json",
-      "bytes": 6991,
-      "sha256": "235aa1780ceca2b1a1101d27185b8ce758d80598a6b4c35dce8e964a6eb446f7"
+      "bytes": 12144,
+      "sha256": "d785bfe26296f7096b8d414dcc5380fd486910a9ba9fcf5703b92fcaa5df12f4"
+    },
+    {
+      "path": "assets/portraits/portrait_casual_confident.png",
+      "bytes": 28433,
+      "sha256": "4d9ec7cde1082a709b2be7adce962664996400ff5f2374d62f491594fb8573e0"
+    },
+    {
+      "path": "assets/portraits/portrait_casual_neutral.png",
+      "bytes": 28408,
+      "sha256": "1dd861a27d5ab89ee4761bfc486a1574aa218a167dff63d7e2f184a4f8c8c28e"
+    },
+    {
+      "path": "assets/portraits/portrait_casual_relieved.png",
+      "bytes": 29010,
+      "sha256": "f357f6f635c8e114dc6e99539600594ca54bc4c25cacce83669f2fee3beea0ad"
+    },
+    {
+      "path": "assets/portraits/portrait_casual_shocked.png",
+      "bytes": 28746,
+      "sha256": "9c2afa2b05e581fafb03c5668ca7ccca7911ca7325caf355c12207782b368ee7"
+    },
+    {
+      "path": "assets/portraits/portrait_casual_thinking.png",
+      "bytes": 29079,
+      "sha256": "064edfeeaf21ff6be50df1d04ffe15af25b703fae24b3069f92fefffedc6fb96"
+    },
+    {
+      "path": "assets/portraits/portrait_cosplayer_confident.png",
+      "bytes": 28777,
+      "sha256": "506adb84d0f452001f69d687d6d236cdbae0761b3f56a3fd2e83bd97f81f4bea"
+    },
+    {
+      "path": "assets/portraits/portrait_cosplayer_neutral.png",
+      "bytes": 28647,
+      "sha256": "edda0685032fc8f42db7a10fc55dcd44513f65e8ad162ec185927880b8376bd2"
+    },
+    {
+      "path": "assets/portraits/portrait_cosplayer_relieved.png",
+      "bytes": 28969,
+      "sha256": "2ccd36b2bf6abb9873acbc7e525c9b45644e2aa35204374b1b1b04ff2c0302c5"
+    },
+    {
+      "path": "assets/portraits/portrait_cosplayer_shocked.png",
+      "bytes": 28272,
+      "sha256": "cce9f38d9a67ea14dfdc385946e51f148e6786086c627f65237eb3d80886bf31"
+    },
+    {
+      "path": "assets/portraits/portrait_cosplayer_thinking.png",
+      "bytes": 28820,
+      "sha256": "9c5cc7f4d9b13d28f5f57e67275bf3de154cdae4bfdc8855fba4d39eb89888a6"
+    },
+    {
+      "path": "assets/portraits/portrait_couple_confident.png",
+      "bytes": 29880,
+      "sha256": "0344a185d78cd0455c5a73320a49982b90cfe70f52a0b9b6f50059d268a94eea"
+    },
+    {
+      "path": "assets/portraits/portrait_couple_neutral.png",
+      "bytes": 30007,
+      "sha256": "babc33e78b53cf58fc626a51c28aaa62eab09c50f701bf663c504dcec05e87e2"
+    },
+    {
+      "path": "assets/portraits/portrait_couple_relieved.png",
+      "bytes": 30145,
+      "sha256": "1732d7cb4366e3e5c3d82263efb2074463c35e8bc8209992524feb0aa10cbbdf"
+    },
+    {
+      "path": "assets/portraits/portrait_couple_shocked.png",
+      "bytes": 29813,
+      "sha256": "fa7a00e6c5640d54e7e80ababcb3b968b58000cb475d383d0483d3ed03abc859"
+    },
+    {
+      "path": "assets/portraits/portrait_couple_thinking.png",
+      "bytes": 29970,
+      "sha256": "f606342d35bfc16fd291c676847840089e56daf21ff1d74872d01dc2aa6e050d"
+    },
+    {
+      "path": "assets/portraits/portrait_gothic_confident.png",
+      "bytes": 31454,
+      "sha256": "e963b2e93d80cf1a5cc38bf7543e55975f5bd0816b801ebab739648599a37435"
+    },
+    {
+      "path": "assets/portraits/portrait_gothic_neutral.png",
+      "bytes": 30910,
+      "sha256": "efe7f89782d66b03d0e830ab7bfa44f0e5360809e65b322aa5a89726d50f68e7"
+    },
+    {
+      "path": "assets/portraits/portrait_gothic_relieved.png",
+      "bytes": 30817,
+      "sha256": "888e3d84e810cc593fe0e3cfdb4953837abc1b6a7e54cda54263236ddfcc2e90"
+    },
+    {
+      "path": "assets/portraits/portrait_gothic_shocked.png",
+      "bytes": 31043,
+      "sha256": "acb29c3af4a8a6e7fe57ef95fe9d5356ca90ebb47d0d16a7c00043ab4646cb23"
+    },
+    {
+      "path": "assets/portraits/portrait_gothic_thinking.png",
+      "bytes": 31012,
+      "sha256": "289116464dc75f1c49fee1973a50b322fe0192bf55b8b06fcfe09ad812216ccc"
+    },
+    {
+      "path": "assets/portraits/portrait_science_confident.png",
+      "bytes": 26315,
+      "sha256": "95d740edfe3a0f7c9174b45157bb3e4aeb51dab42ed506372dcf7195c051b797"
+    },
+    {
+      "path": "assets/portraits/portrait_science_neutral.png",
+      "bytes": 26242,
+      "sha256": "f32ba8417d3f1108bcc921efacbc9f835142a646f503e666fa8abdb1e051b9f1"
+    },
+    {
+      "path": "assets/portraits/portrait_science_relieved.png",
+      "bytes": 26164,
+      "sha256": "c57c7ff1ece7196b6609a7ef4d2dc2970c337252988401e5bd2873c15a82aee8"
+    },
+    {
+      "path": "assets/portraits/portrait_science_shocked.png",
+      "bytes": 25870,
+      "sha256": "5af1eda8bd759b3066083633e1d55f34d06a749dfa4b37be7f57492b8e56a9c5"
+    },
+    {
+      "path": "assets/portraits/portrait_science_thinking.png",
+      "bytes": 26783,
+      "sha256": "1330a9bb4b926600d7b142ef7cc86137c6bc3d4a0c8815434609116bdce2c552"
+    },
+    {
+      "path": "assets/portraits/portrait_veteran_confident.png",
+      "bytes": 27891,
+      "sha256": "c5c162430d4c3e81fffb72baa875c5db13bcfe89a3e4cbb2a0cc4d9fbebc4dba"
+    },
+    {
+      "path": "assets/portraits/portrait_veteran_neutral.png",
+      "bytes": 27812,
+      "sha256": "e080ef96c8bce0018c34c02cd0c0c91c1eef4ec2f03ef9b029c8786daad6317e"
+    },
+    {
+      "path": "assets/portraits/portrait_veteran_relieved.png",
+      "bytes": 27858,
+      "sha256": "53edb06e5ebbb17bb6d4095e5e51e960568a5b63e5fc1c6479b5cde4534b18ff"
+    },
+    {
+      "path": "assets/portraits/portrait_veteran_shocked.png",
+      "bytes": 27506,
+      "sha256": "bacc56fb65b20ebc55799f7e1aefa18c2739ab866a1a5e23f9bed8713df7e645"
+    },
+    {
+      "path": "assets/portraits/portrait_veteran_thinking.png",
+      "bytes": 27862,
+      "sha256": "a75f05c4b00a6eaf9c52bae30b522a3db2359f2b03923470aecbb91f0c61539a"
     },
     {
       "path": "assets/ui/ui_booth.png",
@@ -266,7 +416,7 @@
     {
       "path": "index.html",
       "bytes": 1612,
-      "sha256": "ecbd186a9a18dab0dc96e450744a79bcd331f7d71b3d64e835456f79831007f9"
+      "sha256": "51334df441edccf5d1936c29a2f884e75eb276d43d810f88d21306c2b90b42a1"
     },
     {
       "path": "manifest.webmanifest",
@@ -275,8 +425,8 @@
     },
     {
       "path": "sw.js",
-      "bytes": 5254,
-      "sha256": "3f96e3e8cc98c120cf6151aa641cb7a55ff86cebc7969d3b2963e6b3976c5245"
+      "bytes": 8213,
+      "sha256": "24d812993ef47a1b2a8bc6129714d091e76d1d3c014d9b3c514b10cb288db7b5"
     },
     {
       "path": "workbox-9c191d2f.js",
